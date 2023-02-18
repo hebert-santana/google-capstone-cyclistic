@@ -740,7 +740,7 @@ install.packages("ggmap", lib = "/kaggle/working")
 library(ggmap, lib = "/kaggle/working")
 
 # %% [code] {"_kg_hide-input":true,"execution":{"iopub.status.busy":"2023-02-17T21:19:56.455335Z","iopub.execute_input":"2023-02-17T21:19:56.457010Z","iopub.status.idle":"2023-02-17T21:19:56.467393Z"}}
-register_google(key="AIzaSyCn72ptgOUsRdrTdNDm5ThCnntuh7x0Np4")
+register_google(key="***************************")
 
 # %% [code] {"execution":{"iopub.status.busy":"2023-02-17T21:21:26.906245Z","iopub.execute_input":"2023-02-17T21:21:26.907678Z","iopub.status.idle":"2023-02-17T21:21:28.469828Z"}}
 # principais 500 rotas dos usuarios casuais
